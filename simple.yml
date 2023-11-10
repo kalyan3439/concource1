@@ -4,7 +4,7 @@ resources:
   type: git
   source:
     branch: master
-    uri: https://github.com/mkyong/maven-examples.git
+    uri: https://github.com/kalyan3439/concource1.git
 jobs:
 - name: compile-run-unittest
   plan:
